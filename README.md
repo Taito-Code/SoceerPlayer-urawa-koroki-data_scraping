@@ -6,6 +6,6 @@
 
 # 実行方法
 ```git
-git clone
-python koroki2020.py
+$ git clone https://github.com/Taito-Code/SoceerPlayer-urawa-koroki-data_scraping.git
+$ python koroki2020.py
 ```
